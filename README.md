@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raff407
-- 👀 I’m interested in Python
-- 🌱 I’m currently studying Economics + Computer Science
+- 👀 Languages: Python, and now moving onto Javascript!
+- 🌱 I’m currently studying Economics + Computer Science + Maths  A level
 - 📫 How to reach me ... TBC
 - I'm new, give me some time!
 
