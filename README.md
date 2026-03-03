@@ -1,5 +1,14 @@
 - 👋 Hi, I’m @Raff407
 - 👀 First Year Student - Studying Comp Sci (Bsc)
-- Currently Interested in ARM 32Bit Assembly and C
+- Experience using the following applications + languages:
+- C
+- Python
+- Assembly (32Bit ARM)
+- Haskell
+- Java
+- Javascript
+- SQLITE
+- Photoshop + other adobe software
+- Git
 
 
