@@ -40,11 +40,6 @@ Most of my repos are private, so the pinned ones are the public highlights. Happ
 | Web | Flask, SQLite, HTML, CSS, vanilla JS |
 | Tooling | Git and GitHub, pytest, Maven and Gradle, Photoshop and other Adobe software |
 
-## Currently learning
-
-- Algorithms and data structures, properly and from scratch, not just recognising patterns
-- Machine learning and image processing
-- Whatever my second-year modules throw at me
 
 ## Get in touch
 
