@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Raff 👋</h1>
 
 <p align="center">
-  Second-year Computer Science BSc student, building things in Python, Java and JavaScript.<br>
+  Second-year Computer Science BSc student,<br>
   Looking for a Summer 2027 internship.
 </p>
 
