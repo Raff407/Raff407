@@ -46,3 +46,5 @@ Most of my repos are private, so the pinned ones are the public highlights. Happ
 I'm happy to chat about projects, placements, or anything computer vision or game dev related. The easiest way is to open an issue or message me through GitHub.
 
 <p align="center"><sub>Always learning.</sub></p>
+
+<!-- yolo -->
