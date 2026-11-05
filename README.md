@@ -48,3 +48,5 @@ I'm happy to chat about projects, placements, or anything computer vision or gam
 <p align="center"><sub>Always learning.</sub></p>
 
 <!-- yolo -->
+
+<!-- quickdraw -->
