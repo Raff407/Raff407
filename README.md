@@ -24,11 +24,11 @@ Most of my repos are private, so the pinned ones are the public highlights. Happ
 ## Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,haskell,sqlite,flask,html,css,lua&theme=dark" alt="Languages and tools">
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,haskell,swift,sqlite,flask,html,css,lua&theme=dark" alt="Languages and tools">
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,ps,ai&theme=dark" alt="Dev tools and Adobe software"><img src="assets/jetbrains.svg" alt="JetBrains"><img src="assets/wireshark.svg" alt="Wireshark">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,ps,ai&theme=dark" alt="Dev tools and Adobe software"><img src="assets/jetbrains.svg" alt="JetBrains"><img src="assets/wireshark.svg" alt="Wireshark"><img src="assets/xcode.svg" alt="Xcode">
 </p>
 
 <p>
@@ -42,6 +42,12 @@ Most of my repos are private, so the pinned ones are the public highlights. Happ
 | Web | Flask, SQLite, HTML, CSS, vanilla JS |
 | Tooling | Git and GitHub, pytest, Maven and Gradle, Photoshop and other Adobe software |
 
+
+## Personal interests
+
+- **Swimming:** member of the university Swim Society.
+- **Valorant:** I built a local tool to log and analyse my own match performance.
+- **Photography:** studied it at A-level.
 
 ## Get in touch
 
