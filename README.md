@@ -16,6 +16,7 @@
 ## What I'm working on
 
 - **Computer vision:** [`anpr-uk`](https://github.com/Raff407/anpr-uk), a UK licence plate recognition pipeline. YOLOv8 finds the plate, OpenCV deskews the crop, OCR reads it, and a Flask app serves results from SQLite. It is evaluated on a hand-labelled holdout set that is never trained on.
+- **Facial recognition:** [`facial-recognition-attendance`](https://github.com/Raff407/facial-recognition-attendance), my A-level CS project. It is a hands-free sign-in kiosk that replaces RFID cards: OpenCV and face_recognition match webcam faces against stored encodings, and attendance syncs live to Firebase. In a trial with students it raised satisfaction from 43% to 72%.
 
 
 Most of my repos are private, so the pinned ones are the public highlights. Happy to walk through any of the others.
