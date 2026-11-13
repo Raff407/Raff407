@@ -28,7 +28,11 @@ Most of my repos are private, so the pinned ones are the public highlights. Happ
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,ps,ai&theme=dark" alt="Dev tools and Adobe software">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,ps,ai&theme=dark" alt="Dev tools and Adobe software"><img src="assets/jetbrains.svg" alt="JetBrains"><img src="assets/wireshark.svg" alt="Wireshark">
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,robloxstudio,linux,arch,mint&theme=dark" alt="Unity, Roblox Studio, Linux, Arch Linux and Linux Mint">
 </p>
 
 | Area | What I use |
