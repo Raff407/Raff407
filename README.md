@@ -48,6 +48,7 @@ Most of my repos are private, so the pinned ones are the public highlights. Happ
 - **Swimming:** member of the university Swim Society.
 - **Valorant:** I built a local tool to log and analyse my own match performance.
 - **Photography:** studied it at A-level.
+- **TV shows:** Arcane, Mr. Robot and Attack on Titan.
 
 ## Get in touch
 
