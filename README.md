@@ -16,10 +16,7 @@
 ## What I'm working on
 
 - **Computer vision:** [`anpr-uk`](https://github.com/Raff407/anpr-uk), a UK licence plate recognition pipeline. YOLOv8 finds the plate, OpenCV deskews the crop, OCR reads it, and a Flask app serves results from SQLite. It is evaluated on a hand-labelled holdout set that is never trained on.
-- **Game dev:** Roblox games in Luau, including an arcade getaway game and a tower defence project.
-- **Minecraft server plugins:** a set of custom Java plugins (economy, shop and market, diplomacy, duels) running on a live Paper server.
-- **Study tools:** interactive revision web apps for my modules, with lessons, simulators and practice questions.
-- **Interview prep:** working through data structures and algorithms problems in Python, one ladder of difficulty at a time.
+
 
 Most of my repos are private, so the pinned ones are the public highlights. Happy to walk through any of the others.
 
