@@ -46,8 +46,8 @@ Most of my repos are private, so the pinned ones are the public highlights. Happ
 ## Personal interests
 
 - **Swimming:** member of the university Swim Society.
-- **Valorant:** I built a local tool to log and analyse my own match performance.
-- **Photography:** studied it at A-level.
+- **Valorant:** peak Immortal 3, top 1,000.
+- **Photography:** especially macro photography.
 - **TV shows:** Arcane, Mr. Robot and Attack on Titan.
 
 ## Get in touch
