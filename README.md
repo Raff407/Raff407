@@ -48,7 +48,7 @@ Most of my repos are private, so the pinned ones are the public highlights. Happ
 ## Personal interests
 
 - **Swimming:** member of the university Swim Society.
-- **Valorant:** peak Immortal 3, top 1,000.
+- **Valorant:** peak Immortal 3, top 1,000. Currently Immortal 1, top 15,000 after a long break.
 - **Photography:** especially macro photography.
 - **TV shows:** Arcane, Mr. Robot and Attack on Titan.
 
